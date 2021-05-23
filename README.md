@@ -1,4 +1,4 @@
-# tips and studies
+# TIPS AND STUDIES
 
 -- HTTP VERBS = Get, Post, Put x Patch, Delete
 
